@@ -1,0 +1,33 @@
+{
+	"TrainingData-Rev2" : {
+		"__type" : "EmployeeTraining.TrainingData,EmployeeTrainingProgram",
+		"value" : {
+		"CashierSkills" : [
+			{
+				"Id" : 4,
+				"Exp" : 369,
+				"Grade" : 0,
+				"IsGaugeDisplayed" : true
+			},{
+				"Id" : 1,
+				"Exp" : 403,
+				"Grade" : 0,
+				"IsGaugeDisplayed" : true
+			}
+		],
+		"RestockerSkills" : [
+			{
+				"Id" : 4,
+				"Exp" : 1471,
+				"Grade" : 0,
+				"IsGaugeDisplayed" : true
+			},{
+				"Id" : 4,
+				"Exp" : 0,
+				"Grade" : 0,
+				"IsGaugeDisplayed" : true
+			}
+		]
+	}
+	}
+}
